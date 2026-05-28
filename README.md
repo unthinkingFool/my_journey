@@ -4,7 +4,6 @@
 
 ### A structured, end-to-end roadmap to land a role in AI/ML Engineering
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-blue?style=flat-square)](.)
 [![Core Focus](https://img.shields.io/badge/Core%20Focus-AI%20%2F%20ML-blueviolet?style=flat-square)](.)
 [![University](https://img.shields.io/badge/BUET-CSE-green?style=flat-square)](.)
 [![Progress](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)](.)
